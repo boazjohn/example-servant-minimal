@@ -29,7 +29,11 @@ dependencies:
   - base
   - servant
   - servant-server
+  - servant-client
   - transformers
+  - http-client
+  - either
+  - text
   - aeson
   - wai
   - warp
